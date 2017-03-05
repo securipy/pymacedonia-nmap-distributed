@@ -10,6 +10,8 @@ $ git clone https://github.com/securipy/pymacedonia-nmap-distributed.git .
 $ pip install -r requirements.txt
 ```
 
+**Ensure that NMAP is installed on this system!**
+
 ### How to use it
 
 #### Cron
